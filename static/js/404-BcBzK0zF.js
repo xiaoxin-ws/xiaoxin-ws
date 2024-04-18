@@ -1,0 +1,1 @@
+import{b as e,o as l,x as n}from"./vendor-aDZpGBEG.js";import{_ as o,__tla as s}from"./index-DP-ot5QA.js";let t,_=Promise.all([(()=>{try{return s}catch{}})()]).then(async()=>{const a=e({name:"404"});function r(m,c,f,i,u,p){return l(),n("div",null,"404")}t=o(a,[["render",r]])});export{_ as __tla,t as default};
