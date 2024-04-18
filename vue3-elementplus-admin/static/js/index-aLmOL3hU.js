@@ -1,0 +1,1 @@
+import{a as n,m as s,B as t,c as e,w as o,C as r,O as c}from"./vendor-CMgWRFUC.js";import{_ as m}from"./_plugin-vue_export-helper-DlAUqK2U.js";const u=n({name:"Menu1-3"}),f={class:"app-container"};function i(p,d,x,B,C,_){const a=r;return s(),t("div",f,[e(a,null,{default:o(()=>[c(" menu 1-3 ")]),_:1})])}const l=m(u,[["render",i]]);export{l as default};

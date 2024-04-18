@@ -1,0 +1,1 @@
+import{a,K as u,u as m,m as o,B as c}from"./vendor-CMgWRFUC.js";const n=a({name:"Redirect"}),d=a({...n,setup(i){const e=u(),r=m(),{params:s,query:t}=e,{path:p}=s;return r.replace({path:"/"+p,query:t}),(l,f)=>(o(),c("div"))}});export{d as default};
