@@ -1,1 +1,0 @@
-import{_ as t,__tla as a}from"./WebIframe.vue_vue_type_style_index_0_lang-BDwn9T7S.js";import{__tla as _}from"./index-CG7IEo3Y.js";let r=Promise.all([(()=>{try{return a}catch{}})(),(()=>{try{return _}catch{}})()]).then(async()=>{});export{r as __tla,t as default};
