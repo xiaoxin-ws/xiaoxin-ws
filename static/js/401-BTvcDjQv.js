@@ -1,0 +1,1 @@
+import{a as t,n as r,z as e}from"./vendor-hd0mcwR6.js";import{_ as n,__tla as l}from"./index-DtEwAVCG.js";let a,o=Promise.all([(()=>{try{return l}catch{}})()]).then(async()=>{a=n(t({name:"401"}),[["render",function(s,_,m,i,u,c){return r(),e("div",null,"401")}]])});export{o as __tla,a as default};
