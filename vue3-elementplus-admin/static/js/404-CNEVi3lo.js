@@ -1,1 +1,0 @@
-import{a as t,m as r,y as e}from"./vendor-WKIjn7CI.js";import{_ as l,__tla as n}from"./index-LGr-cOql.js";let a,o=Promise.all([(()=>{try{return n}catch{}})()]).then(async()=>{a=l(t({name:"404"}),[["render",function(s,m,_,i,u,c){return r(),e("div",null,"404")}]])});export{o as __tla,a as default};
