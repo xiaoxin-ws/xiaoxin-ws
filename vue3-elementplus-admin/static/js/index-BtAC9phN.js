@@ -1,0 +1,1 @@
+import{d as t,al as _,ak as n,o,c as u,__tla as m}from"./index-CG7IEo3Y.js";let e,d=Promise.all([(()=>{try{return m}catch{}})()]).then(async()=>{let a;a=t({name:"Redirect"}),e=t({...a,setup(i){const r=_(),s=n(),{params:l,query:c}=r,{path:p}=l;return s.replace({path:"/"+p,query:c}),(h,y)=>(o(),u("div"))}})});export{d as __tla,e as default};
